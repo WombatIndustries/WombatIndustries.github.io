@@ -9,6 +9,8 @@ Suggested donations are:
  + $35+: Black or Green with either blank face, or "Wombat Industries" as seen in the pictures.
  + $40+: You pick the color.
  + $50+: Custom lettering (includes custom color)
+ 
+ Please reach out if you have any crazy ideas!
 
 ## How do I join in on this absurd idea?
 
@@ -16,9 +18,21 @@ Email me at [**WombatIndustries@proton.me**](mailto:WombatIndustries@proton.me),
 
 **Please** email me back when you get the case, and let me konw you got it, that it's indeed awesome, any feedback, and pretty-please confirm you've donated to a food bank.  This lets me know this crazy idea is working, and gives me the strength to carry on :)
 
+You will need to glue the two parts together using super glue (which works like gangbusters on PETG). Pre-gluing them would a much bigger box.  
+
 ## The case
 
+Printed from PETG, it protects the side buttons, and has internal structure to protect the encoder knobs and JANKY JANKY SEQTRAK keys.  A piece of felt provides compliance, and the entire case pressure fits around the seqtrak.   The hole in the top allows pushing the Seqtrak out from the top and creates whimsical thoughts.
 
+![v2.png](images/v2.png "Design file")
+
+![Green.front](images/green_front.jpg "Green Front")
+
+![Green.side](images/green_side.jpg "Green Side")
+
+### TODO Black images
+
+**note**: they've been ever so slightly modified to fit in a USPS flat rate box.
 
 ## FAQ
 
@@ -36,9 +50,12 @@ Absolutely nothing, other than honor, guilt, pride, etc...  I have a hunch more 
 
 Yes. My local food bank (which does a great job) is **RoadRunner Foodbank of New Mexico**.  New Mexico is definitely on the list of states that really need help.
 
+### Are there any other cases I can score?
 
+Currently 2 are planned: an Sp404Mk2, and an Ableton Move.  email me if you want to get notified if they ever get completed.
 
+SP404Mk2 is in the works:
 
+![sp404mk2](images/Sp404mk2_WIP.jpg "Sp404WIP")
 
-
-Github Pages for Wombat Industries
+![sp404mk2_test](images/Sp404mk2_WIP.jpg "Sp404_wip")
