@@ -58,4 +58,4 @@ SP404Mk2 is in the works:
 
 ![sp404mk2](images/Sp404mk2_WIP.jpg "Sp404WIP")
 
-![sp404mk2_test](images/Sp404mk2_WIP.jpg "Sp404_wip")
+![sp404mk2_test](images/sp404_WIP.jpg "Sp404_wip")
