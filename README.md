@@ -19,9 +19,9 @@ Suggested donations are:
 
 Email me at [**WombatIndustries@proton.me**](mailto:WombatIndustries@proton.me), your desired configuration and address and I'll send it out.  
 
-**Please** email me back when you get the case, and let me konw you got it, that it's indeed awesome, any feedback, and pretty-please confirm you've donated to a food bank.  This lets me know this crazy idea is working, and gives me the strength to carry on :)
+**Please** email me back when you get the case, and let me know you got it, that it's indeed awesome, any feedback, and pretty-please confirm you've donated to a food bank.  This lets me know this crazy idea is working, and gives me the strength to carry on :)
 
-You will need to glue the two parts together using super glue (which works like gangbusters on PETG). Pre-gluing them would need a more expensive, bigger, box.  
+You will need to glue the two parts together using super glue (which works like gangbusters on PETG). Pre-gluing them would require a more expensive, bigger, box.  
 
 ## The case
 
@@ -41,7 +41,7 @@ Printed from PETG, it protects the side buttons, and has internal structure to p
 
 After creating this design, I had a handful of people ask for an etsy page to buy one.  I don't really want to start a printing business, but I do want to help people, and share my **glorious** case.
 
-My local foodbank claims $35 dollars makes up to 175 meals.  That's a lot of meals.  A big portion of people who need food banks are elderly, children, or elderly taking care of children.  
+My local foodbank claims $35 makes up to 175 meals.  That's a lot of meals.  A big portion of people who need food banks are elderly, children, or elderly taking care of children.  
 
 ### What ensures I actually donate to a Food Bank?
 
