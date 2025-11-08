@@ -1,6 +1,4 @@
-# WombatIndustries.github.io
-
-## Seqtrak Cases for Charity 
+# Seqtrak Cases for Charity 
 
 I will, at my expense, print and ship a Seqtrak protective case to you, on the **pledge** you'll donate an appropriate amount of money to a **food bank**.  
 
