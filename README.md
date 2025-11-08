@@ -47,9 +47,9 @@ My local foodbank claims $35 makes up to 175 meals.  That's a lot of meals.  A b
 
 Absolutely nothing, other than honor, guilt, pride, etc...  I have a hunch more people will opt to donate **MORE** than the suggested amount than people will take advantage of this generous offer!
 
-### I'm to lazy to look up a foodbank, can you suggest one? 
+### I'm too lazy to look up a foodbank, can you suggest one? 
 
-Yes. My local food bank (which does a great job) is **RoadRunner Foodbank of New Mexico**.  New Mexico is definitely on the list of states that really need help.
+Yes. My local food bank (which does a great job) is [**RoadRunner Foodbank of New Mexico**](https://give.rrfb.org/give/503168/#!/donation/checkout?eg=true).  New Mexico is definitely on the list of states that really need help.
 
 ### Are there any other cases I can score?
 
