@@ -2,6 +2,10 @@
 
 I will, at my expense, print and ship a Seqtrak protective case to you, on the **pledge** you'll donate an appropriate amount of money to a **food bank**.  
 
+
+![v2.png](images/v2.png "Design file")
+
+
 Suggested donations are:
 
  + $35+: Black or Green with either blank face, or "Wombat Industries" as seen in the pictures.
@@ -21,8 +25,6 @@ You will need to glue the two parts together using super glue (which works like 
 ## The case
 
 Printed from PETG, it protects the side buttons, and has internal structure to protect the encoder knobs and JANKY JANKY SEQTRAK keys.  A piece of felt provides compliance, and the entire case pressure fits around the seqtrak.   The hole in the top allows pushing the Seqtrak out from the top and creates whimsical thoughts.
-
-![v2.png](images/v2.png "Design file")
 
 ![Green.front](images/green_front.jpg "Green Front")
 
