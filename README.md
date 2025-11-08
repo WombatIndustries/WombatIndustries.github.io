@@ -10,6 +10,7 @@ Suggested donations are:
 
  + $35+: Black or Green with either blank face, or "Wombat Industries" as seen in the pictures.
  + $40+: You pick the color.
+    + I have Green, White, Yellow, Gray, Black, Orange, White, Red and Blue. 
  + $50+: Custom lettering (includes custom color)
  
  Please reach out if you have any crazy ideas!
@@ -20,7 +21,7 @@ Email me at [**WombatIndustries@proton.me**](mailto:WombatIndustries@proton.me),
 
 **Please** email me back when you get the case, and let me konw you got it, that it's indeed awesome, any feedback, and pretty-please confirm you've donated to a food bank.  This lets me know this crazy idea is working, and gives me the strength to carry on :)
 
-You will need to glue the two parts together using super glue (which works like gangbusters on PETG). Pre-gluing them would a much bigger box.  
+You will need to glue the two parts together using super glue (which works like gangbusters on PETG). Pre-gluing them would need a more expensive, bigger, box.  
 
 ## The case
 
