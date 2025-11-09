@@ -20,7 +20,7 @@ Suggested donations are:
 
 Email me at [**WombatIndustries@proton.me**](mailto:WombatIndustries@proton.me), your desired configuration and address and I'll send it out.  
 
-**Please** email me back when you get the case, and let me know you got it, that it's indeed awesome, any feedback, and pretty-please confirm you've donated to a food bank.  This lets me know this crazy idea is working, and gives me the strength to carry on :)
+**Please** email me back when you get the case, and let me know you got it, that it is indeed awesome, any feedback, and pretty-please confirm you've donated to a food bank.  This lets me know this crazy idea is working, and gives me the strength to carry on :)
 
 You will need to glue the two parts together using super glue (which works like gangbusters on PETG). Pre-gluing them would require a more expensive, bigger, box.  
 
@@ -54,9 +54,15 @@ Yes. My local food bank (which does a great job) is [**RoadRunner Foodbank of Ne
 
 ### Are there any other cases I can score?
 
-Currently 2 are planned: an Sp404Mk2, and an Ableton Move.  email me if you want to get notified if they ever get completed.
+Currently, 2 are planned: an Sp404Mk2, and an Ableton Move.  
+
+email me if you want to get notified if they ever get completed.
 
 SP404Mk2 is in the works:
+
+The idea here, is that most of the SP404 is built like a tank, but I'm afraid the encoders jut out, unprotected.  The "sled" straps onto the front, keeping your encoders snag free, and giving you the courage to throw this in your backpack, like a boss.  
+
+The final version will sit flush with the face (after I figure out how to make use of the faceplate vector file from Roland), and will be much slimmer.  It will also capture the elastic strap.
 
 ![sp404mk2](images/Sp404mk2_WIP.jpg "Sp404WIP")
 
