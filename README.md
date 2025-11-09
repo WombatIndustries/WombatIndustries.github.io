@@ -1,7 +1,8 @@
-# Seqtrak Cases for Charity 
+# Charity Cases
+
+## Seqtrak Cases 
 
 I will, at my expense, print and ship a Seqtrak protective case to you, on the **pledge** you'll donate an appropriate amount of money to a **food bank**.  
-
 
 ![v2.png](images/v2.png "Design file")
 
