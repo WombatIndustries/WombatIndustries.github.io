@@ -9,12 +9,12 @@ I will, at my expense, print and ship a Seqtrak protective case to you, on the *
 
 Suggested donations are:
 
- + $35+: Black or Green with either blank face, or "Wombat Industries" as seen in the pictures.
+ + $35+: Black with either blank face, or "Wombat Industries" as seen in the pictures.
  + $40+: You pick the color.
     + I have Green, White, Yellow, Gray, Black, Orange, White, Red and Blue. 
  + $50+: Custom lettering (includes custom color)
  
- Please reach out if you have any crazy ideas!
+ Please reach out if you have any ideas!
 
 ## How do I join in on this absurd idea?
 
